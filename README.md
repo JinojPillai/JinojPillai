@@ -38,7 +38,7 @@ Scrum Master and Agile Coach with 20+ years in software delivery. My career runs
 Domains: automotive · industrial software · embedded systems and telecom · IoT · manufacturing systems · e-commerce
 
 ## Certifications
-| Certification | Issuer | Year |
+| Certification | Issuer | Year earned |
 |---|---|---|
 | SAFe Release Train Engineer (RTE) 6.0 | Scaled Agile | 2023 |
 | Certified Scrum Professional (CSP) | Scrum Alliance | 2018 |
@@ -49,6 +49,8 @@ Domains: automotive · industrial software · embedded systems and telecom · Io
 | SAFe Agilist (SA) 5.0 | Scaled Agile | 2017 (5.0 in 2021) |
 | Professional Scrum Master I (PSM I) | Scrum.org | 2017 |
 | Certified ScrumMaster (CSM) | Scrum Alliance | 2017 |
+
+SAFe certifications are not currently renewed.
 
 In progress: PMP (Project Management Professional) — training completed, preparing for the exam.
 
