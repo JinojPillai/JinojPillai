@@ -50,7 +50,7 @@ Domains: automotive · industrial software · embedded systems and telecom · Io
 | Professional Scrum Master I (PSM I) | Scrum.org | 2017 |
 | Certified ScrumMaster (CSM) | Scrum Alliance | 2017 |
 
-SAFe certifications are not currently renewed.
+SAFe and Scrum Alliance certifications are not currently renewed.
 
 In progress: PMP (Project Management Professional) — training completed, preparing for the exam.
 
