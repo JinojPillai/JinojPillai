@@ -40,7 +40,7 @@ Domains: automotive · industrial software · embedded systems · IoT · manufac
 | SAFe Product Owner / Product Manager (POPM) | Scaled Agile |
 | ICAgile Certified Professional – Agile Coaching (ICP-ACC) | ICAgile |
 | Professional Scrum Master I (PSM I) | Scrum.org |
-| Kanban Management Professional (KMP) | Kanban University |
+| Kanban Management Professional (KMP), covering KMP I and KMP II | Kanban University |
 
 In progress: PMP (Project Management Professional) — training completed, preparing for the exam.
 
