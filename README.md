@@ -4,14 +4,14 @@
 
 Scrum Master and Agile Coach with 20+ years in software delivery. My career runs from hands-on embedded development and software architecture to leading Agile teams in automotive and industrial software, so I can talk to engineers about the code and to stakeholders about the plan.
 
-![Certified Scrum Professional](https://img.shields.io/badge/Scrum_Alliance-CSP-0A66C2?style=flat-square)
-![Certified ScrumMaster](https://img.shields.io/badge/Scrum_Alliance-CSM-0A66C2?style=flat-square)
-![SAFe Agilist](https://img.shields.io/badge/SAFe-Agilist-1F4E79?style=flat-square)
 ![SAFe RTE](https://img.shields.io/badge/SAFe-RTE-1F4E79?style=flat-square)
-![SAFe POPM](https://img.shields.io/badge/SAFe-POPM-1F4E79?style=flat-square)
+![Certified Scrum Professional](https://img.shields.io/badge/Scrum_Alliance-CSP-0A66C2?style=flat-square)
 ![ICP-ACC](https://img.shields.io/badge/ICAgile-ICP--ACC-6A3D9A?style=flat-square)
-![PSM I](https://img.shields.io/badge/Scrum.org-PSM_I-00A3E0?style=flat-square)
+![SAFe POPM](https://img.shields.io/badge/SAFe-POPM-1F4E79?style=flat-square)
 ![KMP](https://img.shields.io/badge/Kanban_University-KMP-2E7D32?style=flat-square)
+![SAFe Agilist](https://img.shields.io/badge/SAFe-Agilist-1F4E79?style=flat-square)
+![PSM I](https://img.shields.io/badge/Scrum.org-PSM_I-00A3E0?style=flat-square)
+![Certified ScrumMaster](https://img.shields.io/badge/Scrum_Alliance-CSM-0A66C2?style=flat-square)
 
 ## What I do
 - Agile delivery and coaching: Scrum, Kanban and SAFe, with 8–10 years as a Scrum Master and Agile Coach, including assignments at Volvo Cars and Emerson
@@ -23,8 +23,8 @@ Scrum Master and Agile Coach with 20+ years in software delivery. My career runs
 | Period | Organisation | Role |
 |---|---|---|
 | 2024–2026 | Emerson (via DevPort AB) | Scrum Master; supported IEC 62443-4-2 cybersecurity certification readiness |
-| 2021–2023 | Volvo Cars | Scrum Master — manufacturing-planning software and e-commerce |
-| — | 5BARz | Senior Architect / Release Manager — IoT and embedded systems |
+| 2017–2023 | Infosys | Scrum Master on Volvo Cars assignments (2021–2023) — manufacturing-planning software and e-commerce |
+| 2013–2017 | 5BARz India | Senior Architect / Release Manager — IoT and embedded systems |
 | 2004–2013 | Mindtree / Kyocera | Technical management and engineering; line manager for ~18 people |
 | 2002–2004 | L&T Infotech | Software Engineer |
 
@@ -33,14 +33,14 @@ Domains: automotive · industrial software · embedded systems · IoT · manufac
 ## Certifications
 | Certification | Issuer |
 |---|---|
-| Certified Scrum Professional (CSP) | Scrum Alliance |
-| Certified ScrumMaster (CSM) | Scrum Alliance |
-| SAFe Agilist (SA) | Scaled Agile |
 | SAFe Release Train Engineer (RTE) | Scaled Agile |
-| SAFe Product Owner / Product Manager (POPM) | Scaled Agile |
+| Certified Scrum Professional (CSP) | Scrum Alliance |
 | ICAgile Certified Professional – Agile Coaching (ICP-ACC) | ICAgile |
-| Professional Scrum Master I (PSM I) | Scrum.org |
+| SAFe Product Owner / Product Manager (POPM) | Scaled Agile |
 | Kanban Management Professional (KMP), covering KMP I and KMP II | Kanban University |
+| SAFe Agilist (SA) | Scaled Agile |
+| Professional Scrum Master I (PSM I) | Scrum.org |
+| Certified ScrumMaster (CSM) | Scrum Alliance |
 
 In progress: PMP (Project Management Professional) — training completed, preparing for the exam.
 
