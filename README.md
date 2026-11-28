@@ -46,7 +46,7 @@ Domains: automotive · industrial software · embedded systems and telecom · Io
 | SAFe Product Owner / Product Manager (POPM) 5.0 | Scaled Agile | June 2022 |
 | SAFe Advanced Scrum Master (SASM) 5.0 | Scaled Agile | July 2021 |
 | Kanban Management Professional (KMP), covering KMP I and KMP II | Kanban University | July 2022 (KMP I), October 2022 (KMP II) |
-| SAFe Agilist (SA) 5.0 | Scaled Agile | November 2017 (4.0); renewed to 5.0 in 2021 |
+| SAFe Agilist (SA) 5.0 | Scaled Agile | November 2017 (4.0); renewed to 5.0 in July 2021 |
 | Professional Scrum Master I (PSM I) | Scrum.org | October 2017 |
 | Certified ScrumMaster (CSM) | Scrum Alliance | November 2017 |
 
