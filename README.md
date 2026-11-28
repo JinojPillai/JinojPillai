@@ -38,25 +38,25 @@ Scrum Master and Agile Coach with 20+ years in software delivery. My career runs
 Domains: automotive · industrial software · embedded systems and telecom · IoT · manufacturing systems · e-commerce
 
 ## Certifications
-| Certification | Issuer | Year earned |
+| Certification | Issuer | Earned |
 |---|---|---|
-| SAFe Release Train Engineer (RTE) 6.0 | Scaled Agile | 2023 |
-| Certified Scrum Professional (CSP) | Scrum Alliance | 2018 |
-| ICAgile Certified Professional – Agile Coaching (ICP-ACC) | ICAgile | 2017 |
-| SAFe Product Owner / Product Manager (POPM) 5.0 | Scaled Agile | 2022 |
-| SAFe Advanced Scrum Master (SASM) 5.0 | Scaled Agile | 2021 |
-| Kanban Management Professional (KMP), covering KMP I and KMP II | Kanban University | 2022 |
-| SAFe Agilist (SA) 5.0 | Scaled Agile | 2017 (5.0 in 2021) |
-| Professional Scrum Master I (PSM I) | Scrum.org | 2017 |
-| Certified ScrumMaster (CSM) | Scrum Alliance | 2017 |
+| SAFe Release Train Engineer (RTE) 6.0 | Scaled Agile | July 2023 |
+| Certified Scrum Professional (CSP) | Scrum Alliance | March 2018 |
+| ICAgile Certified Professional – Agile Coaching (ICP-ACC) | ICAgile | November 2017 |
+| SAFe Product Owner / Product Manager (POPM) 5.0 | Scaled Agile | June 2022 |
+| SAFe Advanced Scrum Master (SASM) 5.0 | Scaled Agile | July 2021 |
+| Kanban Management Professional (KMP), covering KMP I and KMP II | Kanban University | July 2022 (KMP I), October 2022 (KMP II) |
+| SAFe Agilist (SA) 5.0 | Scaled Agile | November 2017 (4.0); renewed to 5.0 in 2021 |
+| Professional Scrum Master I (PSM I) | Scrum.org | October 2017 |
+| Certified ScrumMaster (CSM) | Scrum Alliance | November 2017 |
 
 SAFe and Scrum Alliance certifications are not currently renewed.
 
 In progress: PMP (Project Management Professional) — training completed, preparing for the exam.
 
 ## Education
-- Master of Computer Applications (MCA), Bharathidasan University, 2004–2007
-- BSc in Computer Science, Bangalore University, 1998–2001
+- Master of Computer Applications (MCA), Bharathidasan University, July 2004 – April 2007
+- BSc in Computer Science, Bangalore University, June 1998 – April 2001
 
 ## Languages
 English (fluent) · Swedish (A2/B1, intermediate) · Malayalam (native)
